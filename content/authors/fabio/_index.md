@@ -6,5 +6,5 @@ bio: Interested in Systems Security & ML
 social: []
 superuser: false
 user_groups:
-  - Academics
+  - Principal Investigators
 ---
