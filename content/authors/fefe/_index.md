@@ -6,4 +6,6 @@ social: []
 organizations:
   - name: Alan Turing, UK
 superuser: false
+user_groups:
+  - Ph.D. Students
 ---
